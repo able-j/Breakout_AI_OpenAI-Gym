@@ -20,7 +20,7 @@ There are some arguements:
 
 `--render` : Renders the game
 
-`generations` : The number of generations
+`--generations` : The number of generations
 
 `--checkpoint` : Use a checkpoint to start the simulation
 
