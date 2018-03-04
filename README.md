@@ -30,4 +30,4 @@ To run, execute this on your terminal or command prompt:
 
 ```shell
 python Breakout_AI.py --max-steps YOUR_OPTION --episodes YOUR_OPTION --generations YOUR_OPTION --render
-``
+```
